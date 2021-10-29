@@ -194,3 +194,8 @@ Documentation, books and videos about Git:
 
 GitHub documentation:
 [Click here](https://docs.github.com/en/github)
+
+# :handshake: Our Beloved Contributors
+<a href="https://github.com/namruthahari/Sample-Git-Repo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=namruthahari/Sample-Git-Repo" />
+</a>
